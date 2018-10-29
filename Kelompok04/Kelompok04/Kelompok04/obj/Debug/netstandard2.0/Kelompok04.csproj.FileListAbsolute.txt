@@ -1,0 +1,26 @@
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\bin\Debug\netstandard2.0\Kelompok04.deps.json
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\bin\Debug\netstandard2.0\Kelompok04.dll
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\bin\Debug\netstandard2.0\Kelompok04.pdb
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.csproj.CoreCompileInputs.cache
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.AssemblyInfoInputs.cache
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.AssemblyInfo.cs
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.dll
+C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.pdb
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\bin\Debug\netstandard2.0\Kelompok04.deps.json
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\bin\Debug\netstandard2.0\Kelompok04.dll
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\bin\Debug\netstandard2.0\Kelompok04.pdb
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.csprojAssemblyReference.cache
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.AssemblyInfoInputs.cache
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.AssemblyInfo.cs
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.dll
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.pdb
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.App.xaml.g.cs
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.LoginPage.xaml.g.cs
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.MainPage.xaml.g.cs
+C:\Users\Muhammad Refi\source\repos\Kelompok04\Kelompok04\Kelompok04\obj\Debug\netstandard2.0\Kelompok04.SignUpPage.xaml.g.cs

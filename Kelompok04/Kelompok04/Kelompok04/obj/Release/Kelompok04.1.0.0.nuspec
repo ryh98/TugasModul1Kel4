@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Kelompok04</id>
+    <version>1.0.0</version>
+    <authors>Kelompok04</authors>
+    <owners>Kelompok04</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Xamarin.Forms" version="3.3.0.912540" exclude="Build,Analyzers" />
+        <dependency id="sqlite-net-pcl" version="1.5.231" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ratna\source\repos\Kelompok04\Kelompok04\Kelompok04\bin\Release\netstandard2.0\Kelompok04.dll" target="lib\netstandard2.0\Kelompok04.dll" />
+  </files>
+</package>
